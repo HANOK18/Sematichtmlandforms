@@ -38,3 +38,9 @@ Built a simple registration form using semantic HTML elements including:
 - Submit button
 
 This project helped in understanding form structure and semantic layout in HTML.
+## 📷 Output Screenshot
+
+ ## 📷 Output
+
+![Registration Form](form.jpeg)
+
